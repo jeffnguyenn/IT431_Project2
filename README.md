@@ -1,2 +1,2 @@
-# it431-express-react-course-mongodb-assignment-solution
-Solution for the IT 431 Express JWT Assignment
+IT 431-DL1 Project 2
+Jefferson Nguyen
